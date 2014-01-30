@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   $("#form_thing").submit(function(event){
     event.preventDefault();
@@ -7,4 +6,3 @@ $(document).ready(function() {
        });
     });
 });
-```
